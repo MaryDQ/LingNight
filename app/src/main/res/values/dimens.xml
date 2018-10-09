@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="login_bg_height">200dp</dimen>
+    <dimen name="common_margin">16dp</dimen>
+    <dimen name="common_padding">16dp</dimen>
+    <dimen name="min_margin">8dp</dimen>
+    <dimen name="min_padding">8dp</dimen>
+    <dimen name="h1_font">20sp</dimen>
+    <dimen name="common_font">16sp</dimen>
+    <dimen name="min_font">14sp</dimen>
+
+    <dimen name="pickerview_topbar_title_textsize">18sp</dimen>
+    <dimen name="pickerview_topbar_padding">20dp</dimen>
+    <dimen name="pickerview_textsize">20sp</dimen>
+</resources>
